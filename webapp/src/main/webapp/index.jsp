@@ -1,10 +1,16 @@
+<Html>
+<head>
+<title>
+Welcome To HTML Code
+</title>
+</head>
 <Html>  
 <head>   
 <title>  
 Registration Page  
 </title>  
 </head>  
-<body bgcolor="Lightskyblue">  
+<body bgcolor="Lightyellow">  
 <br>  
 <br>  
 <form>  
