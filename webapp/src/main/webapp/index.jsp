@@ -2,11 +2,7 @@
 <head>
 <title>
 Welcome To HTML Code
-</title>
-</head>
-<Html>  
-<head>   
-<title>  
+</title>  
 Registration Page  
 </title>  
 </head>  
