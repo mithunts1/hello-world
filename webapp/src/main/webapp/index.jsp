@@ -2,11 +2,11 @@
 <head>
 <title>
 Welcome To HTML Code
-</title>  
+
 Registration Page  
 </title>  
 </head>  
-<body bgcolor="Lightyellow">  
+<body bgcolor="Lightblue">  
 <br>  
 <br>  
 <form>  
